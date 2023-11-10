@@ -1,0 +1,14 @@
+.home {
+  background-image: url("../assets/homepage_image.jpeg");
+  background-size: cover;
+  opacity: 0.9;
+  min-height: calc(100vh - 18px);
+}
+
+.home-msg {
+  font-size: 100px;
+  color: #f9fbb2;
+  font-family: "Alex Brush", cursive;
+  position: relative;
+  top: 200px;
+}
