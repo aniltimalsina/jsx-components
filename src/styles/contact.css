@@ -1,0 +1,43 @@
+form {
+  position: absolute;
+  top: 40%;
+  left: 30%;
+  border: 2px rgb(101, 91, 91) solid;
+  box-shadow: 2px 2px;
+  padding: 10px;
+}
+
+input {
+  padding: 10px;
+  margin: 10px;
+}
+
+#email {
+  width: 80%;
+}
+
+textarea {
+  width: 50%;
+}
+
+.submit-btn {
+  background: #0066a2;
+  color: white;
+  border-style: outset;
+  border-color: #0066a2;
+  height: 50px;
+  width: 100px;
+  font: bold15px arial, sans-serif;
+  text-shadow: none;
+  margin-left: 10rem;
+  margin-top: 2rem;
+}
+
+.form-title {
+  position: absolute;
+  top: 30%;
+  left: 40%;
+  font-size: 50px;
+  color: #2b36d5;
+  font-family: "Alex Brush", cursive;
+}
