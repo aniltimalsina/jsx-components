@@ -1,5 +1,5 @@
 import "../styles/home.css";
-function home() {
+function Home() {
   return (
     <>
       <div className="home">
@@ -10,4 +10,4 @@ function home() {
   );
 }
 
-export default home;
+export default Home;

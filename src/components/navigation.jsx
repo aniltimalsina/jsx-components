@@ -1,6 +1,6 @@
 import "../styles/navigation.css";
 import { Link } from "react-router-dom";
-function navigation() {
+function Navigation() {
   return (
     <>
       <div className="nav-bar">
@@ -20,4 +20,4 @@ function navigation() {
   );
 }
 
-export default navigation;
+export default Navigation;

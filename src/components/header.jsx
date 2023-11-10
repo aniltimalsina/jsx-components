@@ -1,6 +1,6 @@
 import profile from "../assets/twitter.svg";
 import "../styles/header.css";
-function header() {
+function Header() {
   return (
     <>
       <div className="header-logo">
@@ -10,4 +10,4 @@ function header() {
   );
 }
 
-export default header;
+export default Header;
